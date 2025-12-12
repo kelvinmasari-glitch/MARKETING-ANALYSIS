@@ -17,14 +17,14 @@ This analysis identifies key factors influencing marketing performance and custo
 
 ## **Data Description**
 - **Source:** Marketing performance and customer engagement datasets  
-- **Period covered:** Multi-year campaign and engagement data  
+- **Period covered:** 2012 - 2014 campaigns
 - **Key fields:** Campaign name, channel, impressions, clicks, conversions, cost, customer demographics, engagement metrics  
 - **Dataset size:** Thousands of customer interactions across multiple channels  
 
 ---
 
 ## **Analytical Approach**
-- Data cleaning and preprocessing using **Power BI**  
+- Data cleaning and preprocessing using **Power Query**  
 - Exploratory data analysis (EDA) using **Excel**  
 - Data visualization and dashboard creation using **Excel**  
 
@@ -63,7 +63,7 @@ The Excel dashboard provides an interactive view of marketing performance, allow
 
 ## **Tools Used**
 - Excel  
-- Power BI  
+- Power Query  
 
 ---
 
